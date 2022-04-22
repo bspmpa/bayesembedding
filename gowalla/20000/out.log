@@ -1,0 +1,1 @@
+2021-12-15 18:45:29.501:INFO: model = topk_1_mfbesvd_bpr_weightdecay_0_batch_1024_dim_64_gowalla_neg_50_adam_0.001_norm_False_emb_dropout0_dnn_False_one; epoch = 0; train_loss = -1.000000; test: logloss_one = 4.339242; recall_one = 0.608380; hr_one = 0.608380; ndcg_one = 0.608380
